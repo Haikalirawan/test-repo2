@@ -11,6 +11,12 @@
 <body>
     <h1>MENCOBA CLONE DARI GIT KE GITHUB</h1>
     <p>AHUYYYY</p>
+
+
+    <ul>
+        <li>Affaiyah</li>
+        <li>yangBener</li>
+    </ul>
 </body>
 
 </html>
