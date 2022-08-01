@@ -18,6 +18,8 @@
         <li>Affaiyah</li>
         <li>yangBener</li>
     </ul>
+
+    <script src="animasi.js"></script>
 </body>
 
 </html>
